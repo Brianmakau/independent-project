@@ -6,8 +6,8 @@ Basic Git knowledge, including an installed version of Git.
 - HTML & CSS
 ##### Setup Instructions and Installation
 - Clone this repository to a location in your file system. `git clone https://github.com/Brianmakau/independent-project.git'
-- Open terminal command line then navigate to the root folder of the application. `cd my-project`
-- Open `my-portfolio.html` on your browser.
+- Open terminal command line then navigate to the root folder of the application. `cd independent-project`
+- Open `independent-project.html` on your browser.
 ## Development
 Want to contribute? Great!
 To fix a bug or enhance an existing module, follow these steps:
