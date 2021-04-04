@@ -5,15 +5,14 @@ Basic Git knowledge.
 ##### Technologies Used
 - HTML & CSS
 ##### Setup Instructions and Installation
--Your name
--An image of you or something that represents who you are
--A list of projects you have created with active links to them (either on GitHub or GitHub pages)
-  -For each, include a brief description of the project and what languages it uses
--An "About Me" section including:
-  -Your background (for example, your education, job experience, a paragraph on why you decided to take a class on programming, etc.)
-  -Your current interests/hobbies/skills
--Deploy your site onto GitHub pages so that a live site can be viewed at your-username.github.io/portfolio (for example)
-- Clone this repository to a location in your file system. `git clone https://github.com/Brianmakau/independent-project.git'
+- Your name
+- An image of you or something that represents who you are
+- A list of projects you have created with active links to them (either on GitHub or GitHub pages)
+  - For each, include a brief description of the project and what languages it uses
+- An "About Me" section including:
+  - Your background (for example, your education, job experience, a paragraph on why you decided to take a class on programming, etc.)
+  - Your current interests/hobbies/skills
+- Deploy your site onto GitHub pages so that a live site can be viewed at https://brianmakau.github.io/independent-project/
 - Open terminal command line then navigate to the root folder of the application. `cd independent-project`
 - Open `independent-project.html` on your browser.
 ## Development
