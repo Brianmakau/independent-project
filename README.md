@@ -1,16 +1,24 @@
-## My-Project
-Project entails boilerplate code for MPFT41/42 morning stand up session on remote repositories. Languages used are HTML and Custom CSS. Topics covered include HTML tags and Intro to CSS.
+## Independent-Project
+Project entails what was studied during the week. This is a practical coverage and is to help understand the different concepts. Languages used are HTML and Custom CSS.
 ### Prerequisites
-Basic Git knowledge, including an installed version of Git.
+Basic Git knowledge.
 ##### Technologies Used
 - HTML & CSS
 ##### Setup Instructions and Installation
+-Your name
+-An image of you or something that represents who you are
+-A list of projects you have created with active links to them (either on GitHub or GitHub pages)
+  -For each, include a brief description of the project and what languages it uses
+-An "About Me" section including:
+  -Your background (for example, your education, job experience, a paragraph on why you decided to take a class on programming, etc.)
+  -Your current interests/hobbies/skills
+-Deploy your site onto GitHub pages so that a live site can be viewed at your-username.github.io/portfolio (for example)
 - Clone this repository to a location in your file system. `git clone https://github.com/Brianmakau/independent-project.git'
 - Open terminal command line then navigate to the root folder of the application. `cd independent-project`
 - Open `independent-project.html` on your browser.
 ## Development
 Want to contribute? Great!
-To fix a bug or enhance an existing module, follow these steps:
+To enhance an existing module, follow these steps:
 - Fork the repo
 - Create a new branch (git checkout -b improve-feature)
 - Make the appropriate changes in the files
