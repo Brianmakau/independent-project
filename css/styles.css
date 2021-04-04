@@ -1,0 +1,22 @@
+div{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+h1{
+  color: maroon;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+p{
+  text-align-last: auto;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+  background-color:burlywood;
+}
+li{
+  font-size: medium;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
