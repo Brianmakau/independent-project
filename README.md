@@ -2,9 +2,9 @@
 Project entails what was studied during the week. This is a practical coverage and is to help understand the different concepts. Languages used are HTML and Custom CSS.
 ### Prerequisites
 Basic Git knowledge.
-##### Technologies Used
+#### Technologies Used
 - HTML & CSS
-##### Setup Instructions and Installation
+#### Setup Instructions and Installation
 - Your name
 - An image of you or something that represents who you are
 - A list of projects you have created with active links to them (either on GitHub or GitHub pages)
@@ -13,7 +13,7 @@ Basic Git knowledge.
   - Your background (for example, your education, job experience, a paragraph on why you decided to take a class on programming, etc.)
   - Your current interests/hobbies/skills
 - Deploy your site onto GitHub pages so that a live site can be viewed at https://brianmakau.github.io/independent-project/
-- Open terminal command line then navigate to the root folder of the application. `cd independent-project`
+- Open terminal command line then navigate to the root folder of the application. `cd portfolio-landing-page`
 - Open `independent-project.html` on your browser.
 ## Development
 Want to contribute? Great!
